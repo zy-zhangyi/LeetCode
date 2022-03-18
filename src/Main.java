@@ -1,4 +1,4 @@
-import DataStructure.LFUCache;
+import A_labuladong.DataStructure.LFUCache;
 
 public class Main {
 
