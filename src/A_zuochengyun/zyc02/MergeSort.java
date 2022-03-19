@@ -1,12 +1,4 @@
-package Sort;
-
-/*
-归并排序时间复杂度：用master公式：
-T(N) = 2T(N/2) + O(N);
-a = 2, b = 2, d = 1, log(b,a) = d
-O(N * logN)
-空间复杂度：O(N)
- */
+package A_zuochengyun.zyc02;
 
 public class MergeSort {
     public static void mergeSort(int[] arr){
