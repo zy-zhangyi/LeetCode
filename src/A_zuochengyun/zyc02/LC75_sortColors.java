@@ -17,8 +17,7 @@ public class LC75_sortColors {
         int left = -1, right = nums.length;
         for (int i = 0; i < nums.length;){
             if (nums[i] < number){
-                swap(nums, ++left, i);
-                i++;
+                swap(nums, ++left, i++);
             } else if (nums[i] == number){
                 i++;
             } else if (nums[i] > number){
