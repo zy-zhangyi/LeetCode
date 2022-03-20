@@ -1,4 +1,4 @@
-package A_zuochengyun.zyc02;
+package A_zuochengyun.zcy02;
 
 /*
 75. 颜色分类

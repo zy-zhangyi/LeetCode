@@ -1,4 +1,4 @@
-package A_zuochengyun.zyc02;
+package A_zuochengyun.zcy02;
 
 /*
 master公式计算递归的时间复杂度：

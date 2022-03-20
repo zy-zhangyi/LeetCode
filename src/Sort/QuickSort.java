@@ -1,5 +1,7 @@
 package Sort;
 
+// 快排时间复杂度 O(N*logN)
+// 空间O(logN)
 public class QuickSort {
     public static void quickSort(int[] arr){
         if (arr == null || arr.length < 2){

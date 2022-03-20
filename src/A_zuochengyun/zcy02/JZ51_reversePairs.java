@@ -1,4 +1,4 @@
-package A_zuochengyun.zyc02;
+package A_zuochengyun.zcy02;
 
 /*
 剑指 Offer 51. 数组中的逆序对

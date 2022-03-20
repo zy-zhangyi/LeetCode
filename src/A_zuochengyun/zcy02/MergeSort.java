@@ -1,4 +1,4 @@
-package A_zuochengyun.zyc02;
+package A_zuochengyun.zcy02;
 
 public class MergeSort {
     public static void mergeSort(int[] arr){
